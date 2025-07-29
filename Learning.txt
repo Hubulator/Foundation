@@ -40,3 +40,13 @@ CSS Media Queries
     Mobile first design 
     Designing from the smallest to the largest
     (One colunm design)
+
+                Example:
+                                /* starting from = min-width */
+                                @media screen and (min-width: 481px) {
+                                    /* CSS rules */
+                                } 
+
+        Remember to download extension: Markdown all in one 
+        To preview the markdown:
+        Crlt + shift + v

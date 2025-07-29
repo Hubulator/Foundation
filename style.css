@@ -12,8 +12,17 @@ body{
 
     font: 1.5 rem "Nunito", sans-serif;
     min-height: 100vh;
+
+    background-color: grey;
+    /* radial starts at the center */
+    background-image: radial-gradient(whitesmoke, gray);
+
+    display: flex;
+    flex-direction: column;
 }
-                /* starting from = min-width */
- @media screen and (min-width: 481px) {
-    /* CSS rules */
-} 
+
+
+header, nav, main, footer {
+    display: grid;
+    place-content: center;
+}
