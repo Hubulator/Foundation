@@ -1,48 +1,19 @@
-/* Experimenting with CSS Begin: 07/11/2025 */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Press+Start+2P&display=swap");
 
-/* coding in progress... */
+/* || RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
 
 body{
-    background-color: white;
-}
-h1{
-    color:rgb(203, 246, 231);
-    font-family: "Press Start 2P", "cosolas", sans-serif;
-    border-top-style: dotted;
-    border-bottom-style: dotted;
-    border-left-style:double;
-    border-left-width: 10px;
-    border-left-color: silver;
-}
-p{
-    background-color:white;
-    color:blueviolet;
-    font-family: "consolas", sans-serif;
-    font-style: italic;
-    font-weight: bold;
-    /* text-decoration: black dotted underline; */
-    font-size: 16px
 
+    font: 1.5 rem "Nunito", sans-serif;
+    min-height: 100vh;
 }
-#p1{
-    border-style: outset;
-    border-width: 5px;
-    border-color: gold;
-    border-radius: 10px;
-    padding: 5px;
-    color:tomato
-}
-/* 
-#p2{
-    color:slategrey
-}
-#p3{
-    color:burlywood
+                /* starting from = min-width */
+ @media screen and (min-width: 481px) {
+    /* CSS rules */
 } 
-.odd{
-    color:red;
-}
-.even{
-    color: blue;
-}
-*/

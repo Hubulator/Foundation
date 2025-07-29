@@ -22,3 +22,21 @@ To change the font family there is a font family property
 CSS allows us to change the background color,
     Set a linear gradient 
     Set an image as our background
+
+
+CSS Media Queries 
+
+    Media queries allow you modify your site based on specific 
+    characteristics and paramters (most often viewd in the web browser viewport)
+
+    This is key to responsive design as our web pages will respond to the width of device viewport
+
+        Syntax:
+
+            @media media type and (condition: breakpoint) {
+             // CSS rules
+            }
+
+    Mobile first design 
+    Designing from the smallest to the largest
+    (One colunm design)

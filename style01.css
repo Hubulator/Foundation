@@ -1,0 +1,48 @@
+/* Experimenting with CSS Begin: 07/11/2025 */
+
+/* coding in progress... */
+
+body{
+    background-color: white;
+}
+h1{
+    color:rgb(203, 246, 231);
+    font-family: "Press Start 2P", "cosolas", sans-serif;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style:double;
+    border-left-width: 10px;
+    border-left-color: silver;
+}
+p{
+    background-color:white;
+    color:blueviolet;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    /* text-decoration: black dotted underline; */
+    font-size: 16px
+
+}
+#p1{
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    color:tomato
+}
+/* 
+#p2{
+    color:slategrey
+}
+#p3{
+    color:burlywood
+} 
+.odd{
+    color:red;
+}
+.even{
+    color: blue;
+}
+*/
