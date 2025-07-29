@@ -9,3 +9,7 @@ Three ways that we can apply CSS properties to HTML:
     1. Inline
     2. Internal
     3. External (works the best for large websites)
+
+External style sheets are really useful since we css allows us to 
+    target any specific element by id or a class tthat they may be in
+    any element that has these ames will have these styles.
