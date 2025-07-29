@@ -18,3 +18,7 @@ External style sheets are really useful since we css allows us to
 
 
 To change the font family there is a font family property
+
+CSS allows us to change the background color,
+    Set a linear gradient 
+    Set an image as our background
