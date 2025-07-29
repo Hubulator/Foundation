@@ -5,3 +5,7 @@ We need three things:
     2. Style = CSS
     3. Functionality = JS
 
+Three ways that we can apply CSS properties to HTML:
+    1. Inline
+    2. Internal
+    3. External (works the best for large websites)
