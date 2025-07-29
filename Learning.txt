@@ -13,3 +13,6 @@ Three ways that we can apply CSS properties to HTML:
 External style sheets are really useful since we css allows us to 
     target any specific element by id or a class tthat they may be in
     any element that has these ames will have these styles.
+
+            We can also target anything within the same calss: it is like a group.
+            

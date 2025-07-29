@@ -2,23 +2,29 @@
 
 /* coding in progress... */
 
- body{
-            background-color: gray;
-        }
-        h1{
-            color:rgb(203, 246, 231);
-        }
-        p{
-            background-color:antiquewhite;
-            color:blueviolet;
-        }
-        #p1{
-            color:tomato
-        }
-        #p2{
-            color:slategrey
-        }
-        #p3{
-            color:burlywood
-        }
+body{
+    background-color: gray;
+}
+h1{
+    color:rgb(203, 246, 231);
+}
+p{
+    background-color:antiquewhite;
+    color:blueviolet;
+}
+/* #p1{
+    color:tomato
+}
+#p2{
+    color:slategrey
+}
+#p3{
+    color:burlywood
+} */
+.odd{
+    color:red;
+}
+.even{
+    color: blue;
+}
         
