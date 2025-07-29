@@ -15,4 +15,6 @@ External style sheets are really useful since we css allows us to
     any element that has these ames will have these styles.
 
             We can also target anything within the same calss: it is like a group.
-            
+
+
+To change the font family there is a font family property

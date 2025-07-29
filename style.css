@@ -7,10 +7,17 @@ body{
 }
 h1{
     color:rgb(203, 246, 231);
+    font-family: "Press Start 2P", "cosolas", sans-serif;
 }
 p{
     background-color:antiquewhite;
     color:blueviolet;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: black dotted underline;
+    font-size: 16px
+
 }
 /* #p1{
     color:tomato
