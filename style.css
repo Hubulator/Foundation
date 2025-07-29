@@ -77,7 +77,7 @@ footer{
 }
 
 /* Large */
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1200px){
     body{
         background-color: firebrick;
         background-image: radial-gradient(whitesmoke, firebrick);
