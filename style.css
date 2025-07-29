@@ -2,3 +2,13 @@
 
 /* coding in progress... */
 
+ body{
+            background-color: rgb(248, 178, 248);
+        }
+        h1{
+            color:rgb(203, 246, 231);
+        }
+        p{
+            background-color:antiquewhite;
+            color:blueviolet;
+        }
