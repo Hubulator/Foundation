@@ -1,0 +1,7 @@
+CSC - (Caascading Style Sheets)
+
+We need three things:
+    1. Structure = HTML
+    2. Style = CSS
+    3. Functionality = JS
+
