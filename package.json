@@ -1,7 +1,7 @@
 {
   "name": "cif-pro",
   "version": "1.0.0",
-  "description": "Foundation is a webpage that helps incoming CS students build confidence in algebra, trigonometry, and geometry as a \"foundation\" for Calculus I, II, and III.",
+  "description": "Foundation is a tool to help incoming Computer Science students build confidence in algebra, trigonometry, and geometry as a \"foundation\" for Calculus I, II, and III.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/Hubulator/Foundation.git"
   },
-  "author": "GraceAnna Akparanta <GraceAnnaAkparanta@gmail.com>",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Hubulator/Foundation/issues"
   },
-  "homepage": "https://github.com/Hubulator/Foundation#readme"
+  "homepage": "https://github.com/Hubulator/Foundation#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
 }
