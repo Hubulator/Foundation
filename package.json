@@ -4,8 +4,9 @@
   "description": "Foundation is a tool to help incoming Computer Science students build confidence in algebra, trigonometry, and geometry as a \"foundation\" for Calculus I, II, and III.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "npx eleventy --serve",
+  "build": "npx eleventy"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hubulator/Foundation.git"
@@ -22,3 +23,5 @@
     "@11ty/eleventy": "^3.1.2"
   }
 }
+
+
