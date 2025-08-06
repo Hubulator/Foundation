@@ -50,3 +50,44 @@ CSS Media Queries
         Remember to download extension: Markdown all in one 
         To preview the markdown:
         Crlt + shift + v
+
+---
+
+Meeting 3:
+
+Static Site Generators (SSG)
+    SSGs convert templates and content (e.g., Markdown) into a complete website ahead of time. 
+        This makes your site fast and easy to host.
+
+    Chosen SSG: Eleventy (11ty)
+    - Supports templating (Nunjucks)
+    - Easy integration of layouts and partials
+    - Markdown friendly
+
+---
+
+Templating Languages
+    Templating lets you reuse parts of your site like 
+        headers, footers, or navigation.
+
+    Using Nunjucks with Eleventy, you can:
+    - Create a base layout
+    - Include header/footer
+    - Insert dynamic content (like page title)
+
+---
+
+CSS Units: From `px` to `rem`, `em`
+    Using relative units makes the site responsive:
+
+    - `rem`: based on root font size (e.g. 1rem = 16px)
+    - `em`: based on parent font size
+    - `%`: based on parent container
+    - `vw`/`vh`: based on screen dimensions
+
+**Example**:
+```css
+h1 {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
