@@ -1,5 +1,5 @@
 module.exports = function(eleventyConfig) {
-  // Example: add layout alias (optional)
+  // Example:  add layout alias (optional)
   eleventyConfig.addLayoutAlias("default", "layout.njk");
 
   return {
